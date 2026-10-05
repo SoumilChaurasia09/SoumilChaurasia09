@@ -9,32 +9,47 @@
 ---
 
 ## ⚡ About Me
-- 🎓 B.Tech CSE Student at **VIT Bhopal** specializing in **Cyber Security & Digital Forensics**.
-- ☁️ **AWS Certified Solutions Architect – Associate**.
-- 💻 Passionate about Network Packet Sniffing, Web Vulnerability Scanning (OWASP Top 10), and Cloud Infrastructure.
-- 🚀 Explore my interactive website & projects: **[SoumilChaurasia09.github.io/portfolio](https://SoumilChaurasia09.github.io/portfolio/)**
+- 🎓 **Education**: B.Tech in Computer Science and Engineering (Specialization: Cyber Security & Digital Forensics) at **Vellore Institute of Technology (VIT Bhopal)** (2023 – 2027).
+- ☁️ **Certification**: **AWS Certified Solutions Architect – Associate** (EC2, S3, Lambda, VPC, IAM, Cloud Infrastructure & Security).
+- 💻 **Core Focus**: Real-time network packet sniffer & traffic analysis, automated web application vulnerability scanning (OWASP Top 10), and data analytics modeling.
+- 🌐 **Live Website**: Explore my full interactive portfolio at **[SoumilChaurasia09.github.io/portfolio](https://SoumilChaurasia09.github.io/portfolio/)**
 
 ---
 
-## 🛠️ Tech Stack & Security Tools
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Languages**: C++, Python, SQL
+- **Technologies/Frameworks**: Flask, Scapy, Scikit-learn, BeautifulSoup, Pandas, Tkinter, ReportLab, FPDF
+- **Security Tools**: Wireshark, Nmap, Burp Suite, Metasploit, Kali Linux, VirtualBox
+- **Data Analytics**: Power BI, DAX, Data Modeling, Star Schema, RFM Modeling
+- **Cloud & Tools**: AWS (EC2, S3, Lambda, VPC), Git, GitHub, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Live Link |
-| :--- | :--- | :---: |
-| 🛡️ **PacketX** | Real-time Network Packet Analyzer & Sniffer (Python, Scapy, Tkinter) | [View Demo](https://tinyurl.com/soumil1) |
-| 🌐 **VulnGuard** | Automated Web Vulnerability Scanner (OWASP Top 10, Flask) | [View Demo](https://tinyurl.com/Soumil2) |
-| 📊 **Analytics Suite** | E-Commerce RFM Customer Churn Intelligence (Power BI, DAX) | [View Demo](https://tinyurl.com/Soumil4) |
+### 🛡️ [PacketX – Network Packet Analyzer & Sniffer](https://tinyurl.com/soumil1)
+*Python, Scapy, Tkinter, Pandas, FPDF*
+- Developed a real-time network packet sniffer and traffic analyzer using Python and Scapy for monitoring live network activity with support for TCP, UDP, ICMP, and ARP protocols.
+- Designed an interactive Tkinter-based GUI with packet visualization, filtering controls, multi-threaded monitoring, and export modules supporting TXT, CSV, XML, and PDF formats.
+
+### 🌐 [VulnGuard-Web-Scanner – Web Vulnerability Scanner](https://tinyurl.com/Soumil2)
+*Python, Flask, BeautifulSoup, Requests, Tkinter, ReportLab*
+- Developed a Python-based web vulnerability scanner detecting SQL Injection, XSS, CSRF, information leakage, and security misconfigurations across web endpoints.
+- Implemented multi-threaded scanning, real-time logging, Flask web dashboard, Tkinter GUI, and automated ReportLab PDF vulnerability reports aligned with OWASP Top 10 practices.
+
+### 📊 [E-Commerce & Customer Intelligence Analytics Suite](https://tinyurl.com/Soumil4)
+*Power BI, SQL, DAX, Data Modeling, Star Schema, Python*
+- Designed an end-to-end analytics suite on a 5,700+ record Star Schema database, developing an Executive Overview dashboard with dynamic DAX Time-Intelligence measures.
+- Engineered an RFM behavioral model to segment 600 customers into Champions, Loyal, and At-Risk tiers, isolating **$242K+ in at-risk revenue**.
+- Developed an M0–M12 customer cohort retention heatmap with gradient conditional formatting to evaluate customer stickiness.
+
+---
+
+## 📜 Certification
+
+- **AWS Certified Solutions Architect – Associate**
+  - *AWS Cloud Fundamentals including EC2, S3, VPC, Lambda, IAM, and Cloud Infrastructure Architecture.*
 
 ---
 
